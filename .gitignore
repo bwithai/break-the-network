@@ -2,3 +2,5 @@
 .venv
 old_logics
 output.json
+logo_handle
+en.json
